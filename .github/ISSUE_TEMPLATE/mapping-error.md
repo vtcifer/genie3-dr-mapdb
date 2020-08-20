@@ -1,6 +1,7 @@
 ---
 name: Mapping Error
-about: This template should be used when reporting errors with the mapdb files (xml)
+about: This template should be used when reporting errors with the mapdb files (xml).  This
+  should not be used to request new areas be mapped.
 title: ''
 labels: Mapping Error
 assignees: ''
